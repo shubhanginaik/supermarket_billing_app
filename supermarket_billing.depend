@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1657115692 source:c:\users\shnaik\desktop\c++_practice\supermarket_billing\main.cpp
+	<iostream>
+	<fstream>
+
